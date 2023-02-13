@@ -1,0 +1,47 @@
+{"properties": [
+  {
+    "name": "spring.mail.service.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mail.service.enable'"
+  },
+  {
+    "name": "springdoc.version",
+    "type": "java.lang.String",
+    "description": "A description for 'springdoc.version'"
+  },
+  {
+    "name": "spring.application.api.base.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.application.api.base.url'"
+  },
+  {
+    "name": "spring.mail.email.from",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mail.email.from'"
+  },
+  {
+    "name": "spring.mail.templates.path",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mail.templates.path'"
+  },
+  {
+    "name": "spring.application.ui.base.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.application.ui.base.url'"
+  },
+  {
+    "name": "spring.appliction.jwt.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.appliction.jwt.secret'"
+  },
+  {
+    "name": "spring.appliction.jwt.minutes.validity",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.appliction.jwt.minutes.validity'"
+  },
+  {
+    "name": "spring.appliation.name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.appliation.name'"
+  }
+]}
